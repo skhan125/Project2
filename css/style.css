@@ -9,8 +9,8 @@ section p {
     float: none!important;
 }
 section h3 {
-    background-color: #934949;
-    color: #c19b85;
+    background-color: #B0B0B0;
+    color: #000000;
 }
 
 *{
@@ -61,8 +61,8 @@ h1{
 h2{
   font-size: 1.424em;
   line-height:1.5em;
-  background-color: #000000;;
-  color: #fdcaac;
+  background-color: #404040;
+  color: #ffffff;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
   border-bottom-right-radius: 20px;
@@ -131,4 +131,7 @@ img{
 iframe {
   width: 100%;
   padding: 10px 0;
+}
+footer {
+    color:#ff0000
 }
