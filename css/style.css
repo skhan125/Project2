@@ -1,10 +1,7 @@
 ol, ul{
   list-style: none;
 }
-a{
-    text-decoration: none;
-    color: inherit;
-}
+
 section a {
     color: #26c99f;
 }
@@ -15,10 +12,7 @@ section h3 {
     background-color: #934949;
     color: #c19b85;
 }
-/* House styles below */
-@font-face {
-    font-family: "American Typewriter";
-}
+
 *{
     box-sizing: border-box;
 }
